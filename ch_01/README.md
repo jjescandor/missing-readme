@@ -33,6 +33,7 @@
     1. Ramp-Up river where you start coding  and learning meaningful conventions and processes.
     1. Shipping features means you will have to sail the storms of operation ocean.
     1. Finally, we will land in the safe haven of Competence Cove.
+    
     ```
     You can read this book linearly, or you can jump to the chapters you care the most about.
     Many chapters references appear mpre than once in the outline; this is intentional.
