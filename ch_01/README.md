@@ -34,7 +34,10 @@
     1. Shipping features means you will have to sail the storms of operation ocean.
     1. Finally, we will land in the safe haven of Competence Cove.
     ```
-    You can read this book linearly, or you can jump to the chapters you care the most about. Many chapters references appear mpre than once in the outline; this is intentional. Chapters are grouped by subject, but the subjects we cover will span your career. You will discover new insights every time you revisit the material.
+    You can read this book linearly, or you can jump to the chapters you care the most about.
+    Many chapters references appear mpre than once in the outline; this is intentional.
+    Chapters are grouped by subject, but the subjects we cover will span your career.
+    You will discover new insights every time you revisit the material.
     ```
 1. Peak Newb
     1. You begin your journey as a newbie.
